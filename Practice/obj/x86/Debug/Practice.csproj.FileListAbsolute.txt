@@ -1,0 +1,17 @@
+c:\users\admin\documents\visual studio 2010\Projects\Practice\Practice\bin\Debug\Practice.exe
+c:\users\admin\documents\visual studio 2010\Projects\Practice\Practice\bin\Debug\Practice.pdb
+c:\users\admin\documents\visual studio 2010\Projects\Practice\Practice\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2010\Projects\Practice\Practice\obj\x86\Debug\MainWindow.baml
+c:\users\admin\documents\visual studio 2010\Projects\Practice\Practice\obj\x86\Debug\MainWindow.g.cs
+c:\users\admin\documents\visual studio 2010\Projects\Practice\Practice\obj\x86\Debug\App.g.cs
+c:\users\admin\documents\visual studio 2010\Projects\Practice\Practice\obj\x86\Debug\Practice_MarkupCompile.cache
+c:\users\admin\documents\visual studio 2010\Projects\Practice\Practice\obj\x86\Debug\Practice.g.resources
+c:\users\admin\documents\visual studio 2010\Projects\Practice\Practice\obj\x86\Debug\Practice.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2010\Projects\Practice\Practice\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\admin\documents\visual studio 2010\Projects\Practice\Practice\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\admin\documents\visual studio 2010\Projects\Practice\Practice\obj\x86\Debug\Practice.exe
+c:\users\admin\documents\visual studio 2010\Projects\Practice\Practice\obj\x86\Debug\Practice.pdb
+c:\users\admin\documents\visual studio 2010\Projects\Practice\Practice\obj\x86\Debug\Pages\Page1.baml
+c:\users\admin\documents\visual studio 2010\Projects\Practice\Practice\obj\x86\Debug\Pages\Page2.baml
+c:\users\admin\documents\visual studio 2010\Projects\Practice\Practice\obj\x86\Debug\Pages\Page1.g.cs
+c:\users\admin\documents\visual studio 2010\Projects\Practice\Practice\obj\x86\Debug\Pages\Page2.g.cs

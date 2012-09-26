@@ -1,0 +1,17 @@
+﻿<Page x:Class="Practice.Pages.Page2"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      mc:Ignorable="d" 
+      d:DesignHeight="300" d:DesignWidth="300"
+	Title="Page2">
+
+    <Grid>
+        <TextBlock Name="capacity" Text="This is the Second page" FontWeight="SemiBold" FontSize="20" />
+        <Button Content="Previous1" Height="23" HorizontalAlignment="Left" Margin="62,118,0,0" Name="button1" VerticalAlignment="Top" Width="75"
+                 Command="NavigationCommands.GoToPage" CommandParameter="Pages/Page1.xaml" CommandTarget="{Binding ElementName=frmContent}"/>
+        <Button Content="Previous2" Height="23" HorizontalAlignment="Left" Margin="165,118,0,0" Name="button2" VerticalAlignment="Top" Width="75"
+                 Command="NavigationCommands.GoToPage" CommandParameter="Pages/Page1.xaml" CommandTarget="{Binding ElementName=frmContent2}"/>
+    </Grid>
+</Page>
